@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/CM/Documents/AndroidApps/ShattaSpotify/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.15528781793842034" />
+        <entry key="..\:/Users/CM/Documents/AndroidApps/ShattaSpotify/app/src/main/res/layout-w936dp/activity_login.xml" value="0.18125" />
+        <entry key="..\:/Users/CM/Documents/AndroidApps/ShattaSpotify/app/src/main/res/layout/activity_login.xml" value="0.24166666666666667" />
         <entry key="..\:/Users/CM/Documents/AndroidApps/ShattaSpotify/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
       </map>
     </option>
