@@ -1,4 +1,4 @@
-package com.nunoocorp.shattaspotify.Activities
+package com.nunoocorp.shattaspotify.ui.Activities
 
 import android.app.Activity
 import androidx.appcompat.app.AppCompatActivity
